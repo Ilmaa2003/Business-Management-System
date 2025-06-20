@@ -2,6 +2,13 @@
 
 ## Prerequisites
 
+![Business Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20191410.png)
+
+![Business Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20185157.png)
+
+![Business Management System Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Business-Management-System/main/Extra/Images/Screenshot%202024-11-13%20182306.png)
+
+
 - **Windows OS** (recommended for compatibility)
 - **Visual Studio** (for C# development)  
   Download: [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
